@@ -1,1 +1,3 @@
-# Netflix-SignIn-Clone-
+# Netflix-SignIn-Clone
+
+![preview](./preview.png)
