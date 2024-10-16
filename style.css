@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: rgb(240, 230, 230);
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.logo {
+    margin-left: 30px;
+    margin-bottom: 25px;
+    padding-top: 30px;
+    color:rgb(255, 0, 13);
+    font-size: 34px;
+    font-weight: bold;
+}
+
+body {
+    background-image:  url('netflix_bg.jpg');
+}
+
+#signinText {
+    text-align: left;
+    padding: 60px;
+    padding-bottom: 30px;
+}
+
+.sign-in {
+    width: 450px;
+    height: 740px;
+    margin: auto;
+    /* margin: 20px; */
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.sign-in .input {
+    width: 75%;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.80);
+    margin-bottom: 20px;
+    outline: none;
+    border-radius: 4px;
+}
+
+.sign-in .btn {
+    background-color: rgb(224, 20, 20);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    width: 75%;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.sign-in .btn2 {
+    background-color: rgba(255, 255, 255, 0.252);
+    padding: 10px;
+    border-radius: 10px;
+    width: 75%;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+}
+
+
+#signin {
+    font-size: 30px;
+    text-align: left;
+    margin: 40px 0 30px 40px;
+}
+
+a{
+    text-decoration: none;
+    margin-bottom: 15px;
+}
+
+.forgetpswd {
+    padding: 10px 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Remember {
+    margin: 10px;
+}
+
+#privacy-line {
+    margin: 20px;
+}
